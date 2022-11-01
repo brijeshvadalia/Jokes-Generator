@@ -40,12 +40,12 @@
 >![BADGE](https://img.shields.io/badge/NETLIFY-NETLIFY-blue)
 
 
-<!-- # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-basic-counter.netlify.app/ "Basic Counter")
+# HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
+># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-jokes-generator.netlify.app/ "Jokes Generator")
 
->![Screenshot](./Screenshot/screenshot-1.png)
->![Screenshot](./Screenshot/screenshot-2.png)
->![Screenshot](./Screenshot/screenshot-3.png) -->
+>![Screenshot](./screenshot/screenshot-1.png)
+>![Screenshot](./screenshot/screenshot-2.png)
+>![Screenshot](./screenshot/screenshot-3.png)
 
 
 
