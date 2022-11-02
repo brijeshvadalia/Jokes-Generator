@@ -25,6 +25,9 @@
 
 - Learned DOM properties [ HTML DOM properties are values (of HTML Elements) that you can set or change. ]
 
+- Learned about how to fetch API and display it in the website.
+
+- Also Learned All about API.
 
 
 ># Designed With 😇
